@@ -1,4 +1,7 @@
 # coffeAd
 An example GSAP advertisment
 
-https://github.com/mattsterp/coffeAd/blob/master/screenshot.jpg
+Here's s screenshot (hover to see the title text):
+
+Inline-style: 
+![alt text](https://s3.amazonaws.com/mattsterp.github/coffead-screenshot.jpg "gsap-cofeeAd")
